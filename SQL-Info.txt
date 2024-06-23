@@ -1,0 +1,1 @@
+"MS-SQL": "Server=localhost,1434;Database=RecenzjeFilmowe;User Id=SA;Password=yourStrongPassword123;TrustServerCertificate=True;"

@@ -1,0 +1,10 @@
+INSERT INTO Filmy
+VALUES ('Avengers: Koniec gry', '25 kwietnia 2019', 182 , 'Anthony Russo, Joe Russo', 'https://localhost:5173/src/zdj/1.jpg', 'https://www.youtube.com/embed/TcMBFSGVi1c' );
+INSERT INTO Filmy
+VALUES ('Avengers: Wojna bez granic', '26 kwietnia 2018', 149 , 'Anthony Russo, Joe Russo', 'https://localhost:5173/src/zdj/2.jpg', 'https://www.youtube.com/embed/6ZfuNTqbHE8' );
+INSERT INTO Filmy
+VALUES ('Avatar: Istota wody', '14 grudnia 2022', 192 , 'James Cameron', 'https://localhost:5173/src/zdj/3.jpg', 'https://www.youtube.com/embed/d9MyW72ELq0' );
+INSERT INTO Filmy
+VALUES ('Spider-Man: Poprzez multiwersum', '31 maja 2023', 140 , 'Joaquim Dos Santos, Kemp Powers', 'https://localhost:5173/src/zdj/4.jpg', 'https://www.youtube.com/embed/cqGjhVJWtEg' );
+INSERT INTO Filmy
+VALUES ('Diuna: Czesc druga', '28 lutego 2024', 166 , 'Denis Villeneuve', 'https://localhost:5173/src/zdj/5.jpg', 'https://www.youtube.com/embed/Way9Dexny3w' );

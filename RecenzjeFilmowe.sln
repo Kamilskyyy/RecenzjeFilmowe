@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecenzjeFilmowe.Server", "RecenzjeFilmowe.Server\RecenzjeFilmowe.Server.csproj", "{7F0E9452-D2A0-4F8D-98BB-022EABBD8CD3}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "recenzjefilmowe.client", "recenzjefilmowe.client\recenzjefilmowe.client.esproj", "{5D460DBB-9C2D-4F12-9C08-67A1E9364393}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F0E9452-D2A0-4F8D-98BB-022EABBD8CD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F0E9452-D2A0-4F8D-98BB-022EABBD8CD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F0E9452-D2A0-4F8D-98BB-022EABBD8CD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F0E9452-D2A0-4F8D-98BB-022EABBD8CD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D460DBB-9C2D-4F12-9C08-67A1E9364393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D460DBB-9C2D-4F12-9C08-67A1E9364393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D460DBB-9C2D-4F12-9C08-67A1E9364393}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5D460DBB-9C2D-4F12-9C08-67A1E9364393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D460DBB-9C2D-4F12-9C08-67A1E9364393}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D460DBB-9C2D-4F12-9C08-67A1E9364393}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28DE4C9A-EB79-49AB-93F5-CA0AC1615BDF}
+	EndGlobalSection
+EndGlobal

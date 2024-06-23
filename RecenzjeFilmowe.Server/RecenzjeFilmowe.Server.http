@@ -1,0 +1,6 @@
+@RecenzjeFilmowe.Server_HostAddress = http://localhost:5212
+
+GET {{RecenzjeFilmowe.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

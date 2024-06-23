@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "react-router-dom": "^6.23.1"
+  },
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
