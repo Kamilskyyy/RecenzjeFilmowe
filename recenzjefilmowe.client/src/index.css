@@ -1,5 +1,6 @@
 body {
-    background-color: Azure;
+    background-color: #28282B;
+    color: GhostWhite;
 }
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
@@ -23,7 +24,8 @@ body {
     border-radius: 20px 20px 20px 20px;
     padding: 8px 10px;
     margin: 15px;
-    background-color: Snow;
+    background-color: lightgray;
+    color: black;
 }
 
 label {
